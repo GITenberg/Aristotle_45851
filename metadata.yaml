@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4709
     wikipedia: http://en.wikipedia.org/wiki/Alexander_Bain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45851#Aristotle
 gutenberg_issued: '2014-05-31'
 gutenberg_type: Text
 identifiers:
