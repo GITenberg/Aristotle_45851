@@ -1,0 +1,40 @@
+_repo: Aristotle_45851
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grote, George
+    birthdate: 1794
+    deathdate: 1871
+    gutenberg_agent_id: '4168'
+    url: http://www.gutenberg.org/2009/agents/4168
+    wikipedia: http://en.wikipedia.org/wiki/George_Grote
+  editors:
+  - agent_name: Robertson, George Croom
+    alias: Robertson, G. Croom (George Croom)
+    birthdate: 1842
+    deathdate: 1892
+    gutenberg_agent_id: '43492'
+    url: http://www.gutenberg.org/2009/agents/43492
+  - agent_name: Bain, Alexander
+    birthdate: 1818
+    deathdate: 1903
+    gutenberg_agent_id: '4709'
+    url: http://www.gutenberg.org/2009/agents/4709
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_Bain
+description: ''
+gutenberg_issued: '2014-05-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45851'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Aristotle, 384 BC-322 BC'
+title: Aristotle
+url: http://www.gutenberg.org/ebooks/45851
